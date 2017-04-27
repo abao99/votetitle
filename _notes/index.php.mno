@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:titleNo;datatype:int,name:voteTitle;datatype:string,name:starDate;datatype:date,name:endDate;datatype:date" />
+</info>
